@@ -1,0 +1,14 @@
+the shebang line is:
+#! /usr/bin/env python3
+
+save your .py file to your home folder
+
+cd ~
+
+change the .py file’s permissions to make it executable by running 
+chmod +x pythonScript.py
+
+entering 
+./pythonScript.py
+
+python3 pythonScript.py ...
